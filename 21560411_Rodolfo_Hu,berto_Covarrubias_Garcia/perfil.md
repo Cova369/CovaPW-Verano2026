@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/277374115?s=400&u=fc6e788547418e18cff6358f4a025d2d25bd78d4&v=4" width="150" alt="Foto de perfil de Humberto Covarrubias” />
+<img src="https://avatars.githubusercontent.com/u/277374115?s=96&v=4" width="150" alt="Foto de perfil de Humberto Covarrubias” />
 
 
 
